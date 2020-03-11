@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Core</string>
+    <string name="refresh">Refresh</string>
+    <string name="ok">Ok</string>
+</resources>
